@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /jasper2/
 
 # Website info
 title: Ghost
@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://test.spsharman.com/jasper2/
+production_url: https://test.spsharman.com/
 source_url: https://github.com/spsharman/
 # production_url: https://spsharman.github.io/
 # source_url: https://github.com/spsharman/
